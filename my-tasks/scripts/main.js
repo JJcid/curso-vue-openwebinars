@@ -11,7 +11,7 @@ new Vue({
           { name: 'Vuex', striked: false },
           { name: 'Vue-router', striked: false },
           { name: 'Vue-axios', striked: true }
-      },
+        ]},
       {
         title: 'Recipes',
         tasks: [
